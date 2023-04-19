@@ -1,0 +1,24 @@
+attrs==18.1.0
+beautifulsoup4==4.12.2
+certifi @ file:///C:/ci_311/certifi_1676421629969/work/certifi
+charset-normalizer==3.1.0
+ConfigArgParse==1.5.3
+coursera-dl==0.11.5
+idna==3.4
+importlib-metadata==6.3.0
+jaraco.classes==3.2.3
+keyring==23.13.1
+more-itertools==9.1.0
+numpy==1.24.2
+pandas==2.0.0
+pyasn1==0.4.8
+python-dateutil==2.8.2
+pytz==2023.3
+pywin32-ctypes==0.2.0
+requests==2.28.2
+six==1.16.0
+soupsieve==2.4
+tzdata==2023.3
+urllib3==1.26.15
+wincertstore==0.2
+zipp==3.15.0
